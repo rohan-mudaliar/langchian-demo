@@ -1,0 +1,8 @@
+install-jdk
+streamlit
+langchain
+openai
+chromadb
+tiktoken
+wikipedia
+pyspark
